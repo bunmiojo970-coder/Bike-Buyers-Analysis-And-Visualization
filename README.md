@@ -2,7 +2,10 @@
 
 # Executive Summary:
 
-Using Excel, I cleaned the Bike Buyers information and created an interactive dashboard using Slicers and Pivot Tables to pull out key insights and findings. Since the major aim is to maximize profit through bike sales, increasing the patronage of customers with a Bachelors and Graduate Degree for both males and females, married or single since they generally have a higher average income per purchase which makes affordability wasier and can easily lead to a higher frequency of purchase. Increasing the customers within 0 - 1 miles commute distance will also help to maximize profit for the bike sales company since they had the highest
+Using Excel, I cleaned the Bike Buyers information and created an interactive dashboard using Slicers and Pivot Tables to pull out key insights and findings. Since the major aim is to maximize profit through bike sales, increasing the patronage of customers with a Bachelors and Graduate Degree for both males and females, married or single since they generally have a higher average income per purchase which makes affordability wasier and can easily lead to a higher frequency of purchase. Increasing the customers within 0 - 1 miles commute distance will also help to maximize profit for the bike sales company since they had the highest count of purchased bikes. To maximize profits through the above increase, I recommend that the marketing strategy team implement the following:
+1. Social Media Advertisement with filters to focus on 0 - 1 miles Commute Distance, Bachelors and Graduate Degree Education prospective customers
+2. Discounts or other rewards or gifts promos via emails or texts for previous customers
+3. Better Client Relationships through quality on-site customer service. 
 
 # Business Problem:
 
