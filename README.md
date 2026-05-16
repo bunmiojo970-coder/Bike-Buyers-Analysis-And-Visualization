@@ -19,7 +19,9 @@ The general dream of any business is to maximize profit and expand as much as po
 
 # Skills/Tools Used:
 
-Excel: IF functions, filters, Remove Duplicates, Replace tools, Pivot Tables, Charts and Slicers.
+Excel: IF functions 
+=IF(L2>54,"Old",IF(L2>=31,"Middle Age",IF(L2<31,"Adolescent","Invalid"))), 
+filters, Remove Duplicates, Replace tools, Pivot Tables, Charts and Slicers.
 
 # Results/Key Insights:
 
